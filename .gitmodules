@@ -1,0 +1,6 @@
+[submodule "lib/neossnet"]
+	path = lib/neossnet
+	url = https://github.com/durganmcbroom/Neonatal-Chest-Sound-Separation-using-Deep-Learning.git
+[submodule "bin/record/lib/pico"]
+	path = bin/record/lib/pico
+	url = https://github.com/picotech/picosdk-python-wrappers.git
